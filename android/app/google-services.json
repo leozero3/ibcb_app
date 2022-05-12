@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "928116991932",
+    "firebase_url": "https://ibcb-276622.firebaseio.com",
+    "project_id": "ibcb-276622",
+    "storage_bucket": "ibcb-276622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928116991932:android:7fc8c737f607538b20edb9",
+        "android_client_info": {
+          "package_name": "com.inc.real.appibcb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928116991932-h9n3mdabr2lnf0955v6j04b42mvi2qfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxSJPZpFb9nA21ccylAzHA5ucYu-eNEI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928116991932-h9n3mdabr2lnf0955v6j04b42mvi2qfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
